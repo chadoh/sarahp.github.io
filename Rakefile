@@ -4,3 +4,6 @@ namespace :assets do
     sh 'middleman build'
   end
 end
+
+#Require Middleman GH Pages for deploying to github pages
+require 'middleman-gh-pages'

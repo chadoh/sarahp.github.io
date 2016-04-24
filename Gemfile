@@ -16,6 +16,7 @@ gem 'rake', '~> 10.1'
 gem 'middleman', '>= 4.0.0'
 gem 'middleman-livereload'
 gem 'middleman-sprockets', '>= 4.0.0.ec.1'
+gem 'middleman-gh-pages'
 # gem 'jquery-rails'
 # gem 'middleman-autoprefixer'
 #
