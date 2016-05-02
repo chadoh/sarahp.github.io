@@ -4788,8 +4788,11 @@ p {
   background-color: #2e3192;
   border-color: #2e3192;
   font-size: 2.7em;
-  margin-bottom: 3em; }
+  margin-bottom: 1.5em; }
   .btn-primary:hover {
     background-color: #1c1e5e;
     border-color: #1c1e5e;
     color: #fff; }
+
+.footer {
+  margin-bottom: 3em; }
